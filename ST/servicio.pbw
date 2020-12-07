@@ -1,0 +1,10 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "st_principal.pbt";
+ 1 "..\\CO\\comain.pbt";
+ 2 "..\\WH\\warehouse.pbt";
+@end;
+DefaultTarget "..\\CO\\comain.pbt";
+DefaultRemoteTarget "..\\CO\\comain.pbt";
