@@ -1,5 +1,11 @@
 Save Format v3.0(19990112)
 @begin Projects
+ 0 "1&p_comain_exe&comain.pbl";
+ 1 "1&p_comain_wsproxy&webservice.pbl";
+ 2 "1&p_comain_wsproxy1&diwebservice.pbl";
+ 3 "1&p_comain_wsproxy3&cowebhafid.pbl";
+ 4 "1&p_comain_wsproxy2&cowebb&r.pbl";
+ 5 "1&p_comain_wsproxy4&cowbroes.pbl";
 @end;
 appname "comain";
 applib "comain.pbl";
