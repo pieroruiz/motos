@@ -1,3 +1,4 @@
+delete co_arqueodetalle
 delete co_arqueocaja
 delete co_cobranzadetalle
 delete co_cobranzacontrol
@@ -18,6 +19,7 @@ delete co_documentohistsaldos
 delete co_documento
 delete co_documentoserie
 delete co_cotizaciondetalle
+delete co_cotizacionrequisitos
 delete co_cotizacion
 delete wh_kardex
 delete wh_itemalmacenlote
@@ -28,3 +30,21 @@ delete wh_itemalmacen
 delete wh_ordencompradistribucion
 delete wh_ordencompradetalle
 delete wh_ordencompra
+delete clientemast
+delete proveedormast
+delete wh_requisitiondistribucion
+delete wh_requisiciondetalle
+delete wh_requisiciones
+delete wh_itemmast
+delete wh_modelo
+delete wh_marcas
+delete wh_clasesubfamilia
+delete wh_ClaseSubFamiliaInferior
+delete wh_clasefamilia
+delete co_precio
+delete co_documentocredito
+delete wh_guiaremisiondetalle
+delete wh_guiaremision
+delete empleadomast where empleado <> -1
+delete personamast where persona <> -1
+delete co_informacioncrediticia
