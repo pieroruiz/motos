@@ -6,5 +6,5 @@ Save Format v3.0(19990112)
  1 "WH\\warehouse.pbt";
  2 "AP\\cuentasxpagar.pbt";
 @end;
-DefaultTarget "CO\\comain.pbt";
-DefaultRemoteTarget "CO\\comain.pbt";
+DefaultTarget "WH\\warehouse.pbt";
+DefaultRemoteTarget "WH\\warehouse.pbt";
