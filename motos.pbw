@@ -5,6 +5,7 @@ Save Format v3.0(19990112)
  0 "CO\\comain.pbt";
  1 "WH\\warehouse.pbt";
  2 "AP\\cuentasxpagar.pbt";
+ 3 "ST\\st_principal.pbt";
 @end;
 DefaultTarget "CO\\comain.pbt";
 DefaultRemoteTarget "CO\\comain.pbt";
